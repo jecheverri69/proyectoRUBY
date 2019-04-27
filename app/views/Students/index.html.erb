@@ -1,0 +1,20 @@
+<h1>lista</h1>
+
+<% @students %>
+
+<table border="3px">
+	<tr> 
+		<th>Nombre</th>
+		<th>Email</th>
+		<th>Fecha</th>
+		<th>Programa</th>
+	</tr>
+	<%@students.each do |student|%>
+	<tr>
+		<td><%= student.nombre %></td>
+		<td><%= student.email %></td>
+		<td><%= student.fecha %></td>
+		<td><%= student.programa %></td>
+	</tr>
+	<%end%>
+</table>

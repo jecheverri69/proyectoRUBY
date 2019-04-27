@@ -1,0 +1,8 @@
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+santiago,fsgarzon0@misena.edu.co,23/dic/1995,adsi
+chamaja,1,2,chamaja
